@@ -17,7 +17,7 @@ body {
 
 .content {
     background-color: #ffffff;
-    padding: 16px;
+    padding: 20px;
     border-radius: 10px;
     max-width: 320px;
     height: 499px;
@@ -28,8 +28,8 @@ body {
 }
 
 img {
-    width: 288px;
-    height: 288px;
+    width: 100%;
+    height: auto;
     object-fit: cover;
     border-radius: 10px;
 }
